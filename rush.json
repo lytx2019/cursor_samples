@@ -435,6 +435,11 @@
       "reviewCategory": "apps"
     },
     {
+      "packageName": "@lytx2019/app-solution-center",
+      "projectFolder": "apps/app-solution-center",
+      "reviewCategory": "apps"
+    },
+    {
       "packageName": "@lytx2019/game-of-life",
       "projectFolder": "packages/game-of-life",
       "reviewCategory": "packages"
