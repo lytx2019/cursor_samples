@@ -430,6 +430,11 @@
     //   "tags": [ "tools" ]
     // }
     {
+      "packageName": "@lytx2019/app-playground",
+      "projectFolder": "apps/playground",
+      "reviewCategory": "apps"
+    },
+    {
       "packageName": "@lytx2019/game-of-life",
       "projectFolder": "packages/ConwayGOL",
       "reviewCategory": "packages"
