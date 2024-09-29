@@ -435,8 +435,8 @@
       "reviewCategory": "apps"
     },
     {
-      "packageName": "domain1",
-      "projectFolder": "packages/domain1",
+      "packageName": "@lytx2019/game-of-life",
+      "projectFolder": "packages/ConwayGOL",
       "reviewCategory": "packages"
     },
     {
