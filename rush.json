@@ -430,11 +430,6 @@
     //   "tags": [ "tools" ]
     // }
     {
-      "packageName": "app1",
-      "projectFolder": "apps/app1",
-      "reviewCategory": "apps"
-    },
-    {
       "packageName": "@lytx2019/game-of-life",
       "projectFolder": "packages/ConwayGOL",
       "reviewCategory": "packages"
