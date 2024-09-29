@@ -23,7 +23,7 @@ importers:
     dependencies:
       '@emotion/react': 11.13.3_eaeaf78c008e6ba8de031894b929634f
       '@emotion/styled': 11.13.0_08d515a0172408b2e41012936f9de214
-      '@lytx2019/game-of-life': link:../../packages/ConwayGOL
+      '@lytx2019/game-of-life': link:../../packages/game-of-life
       '@mui/material': 5.16.7_0e1713cc86699807dc3f6f9c4dfb6cbc
       next: 14.2.13_react-dom@18.3.1+react@18.3.1
       react: 18.3.1
@@ -39,7 +39,7 @@ importers:
   ../../infra/scripts:
     specifiers: {}
 
-  ../../packages/ConwayGOL:
+  ../../packages/game-of-life:
     specifiers:
       '@types/react': ^18.3.10
       '@types/react-dom': ^18.3.0

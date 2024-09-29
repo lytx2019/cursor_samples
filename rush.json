@@ -436,7 +436,7 @@
     },
     {
       "packageName": "@lytx2019/game-of-life",
-      "projectFolder": "packages/ConwayGOL",
+      "projectFolder": "packages/game-of-life",
       "reviewCategory": "packages"
     },
     {
